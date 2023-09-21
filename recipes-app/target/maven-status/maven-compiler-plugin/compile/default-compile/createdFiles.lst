@@ -1,0 +1,12 @@
+com\recipes\app\dto\Information.class
+com\recipes\app\config\SecurityConfig.class
+com\recipes\app\repository\RecipesRepository.class
+com\recipes\app\dto\Results.class
+com\recipes\app\repository\UserRepository.class
+com\recipes\app\service\impl\RecipesServiceImpl.class
+com\recipes\app\entity\UserTable.class
+com\recipes\app\controller\RecipesController.class
+com\recipes\app\entity\Recipes.class
+com\recipes\app\dto\RecipesResponse.class
+com\recipes\app\RecipesApplication.class
+com\recipes\app\service\RecipesService.class
